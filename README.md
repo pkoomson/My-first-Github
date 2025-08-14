@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+This dashboard enables airlines to better understand their customers. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus, since by using this dashboard they have identified this problem, they can further work on the factors responsible for these unwanted delays.
 
 Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
 
@@ -53,7 +53,7 @@ Since, number of neutral/dissatisfied customers (almost 57 %) are more than sati
 
   (m) Departure & arrival time convenience
 
-In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some customers.
+In our dataset, Some parameters were assigned a value of 0, representing those parameters are not applicable for some customers.
 
 All these values have been ignored while calculating average rating for each of the parameters mentioned above.
 
@@ -114,7 +114,7 @@ A card visual was used to represent count of customers.
 
  ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
 
- - Step 18 : The report was then published to Power BI Service.
+ - Step 18: The report was then published to Power BI Service.
 
 
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
@@ -131,9 +131,9 @@ A card visual was used to represent count of customers.
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+A single-page report was created in Power BI Desktop & it was then published to Power BI Service.
 
-Following inferences can be drawn from the dashboard;
+The following inferences can be drawn from the dashboard;
 
 ### [1] Total Number of Customers = 129880
 
@@ -164,15 +164,15 @@ Following inferences can be drawn from the dashboard;
     l) Seat comfort - 3.44/5
     m) Departure & arrival convenience - 3.22/5
 
-  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
+  While calculating the average rating, null values have been ignored as they were not relevant for some customers. 
 
-  These ratings will change if different visual filters will be applied.  
+  These ratings will change if different visual filters are applied.  
 
   ### [3] Average Delay 
 
       a) Average delay in arrival(minutes) - 15.09
       b) Average delay in departure(minutes) - 14.71
-Average delay will change if different visual filters will be applied.
+The average delay will change if different visual filters are applied.
 
  ### [4] Some other insights
 
@@ -182,21 +182,21 @@ Average delay will change if different visual filters will be applied.
 
  1.2) 44.89 % customers travelled by Economy class.
 
- 1.3) 7.25 % customers travelled by Economy plus class.
+ 1.3) 7.25 % customers travelled by Economy Plus class.
 
-         thus, maximum customers travelled by Business class.
+         Thus, most customers travelled in Business class.
 
  ### Age Group
 
- 2.1)  21.69 % customers belong to '0-25' age group.
+ 2.1)  21.69 % customers belong to the '0-25' age group.
 
- 2.2)  52.44 % customers belong to '25-50' age group.
+ 2.2)  52.44 % customers belong to the '25-50' age group.
 
- 2.3)  25.57 % customers belong to '50-75' age group.
+ 2.3)  25.57 % customers belong to the '50-75' age group.
 
- 2.4)  0.31 % customers belong to '75-100' age group.
+ 2.4)  0.31 % customers belong to the '75-100' age group.
 
-         thus, maximum customers belong to '25-50' age group.
+         Thus, most customers belong to the '25-50' age group.
          
 ### Customer Type
 
@@ -204,7 +204,7 @@ Average delay will change if different visual filters will be applied.
 
 3.2) 81.69 % customers have customer type 'returning'.
 
-       thus, more customers have customer type 'returning'.
+       Thus, most customers have a customer type of 'returning'.
 
 ### Type of travel
 
