@@ -146,7 +146,7 @@ Following inferences can be drawn from the dashboard;
    Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
 
 
-           thus, higher number of customers are neutral/unsatisfied.
+           Thus, most customers are neutral/unsatisfied.
            
 ### [2] Average Ratings
 
